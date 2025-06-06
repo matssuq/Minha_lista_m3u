@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://files.fabiomagno.webnode.com/200000054-6d18c6e133-public/.facebook_1491010981683.jpg" pltv-name="FABIO MAGNO" pltv-description="LISTA DE FILMES, SERIES, ANIMES, DESENHOS E VARIEDADES" pltv-cover="http://www.cepe.com.br/images/miv/CiaEditora
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PysT8xnh.jpg" group-title="ATUALIZAÇÕES DO DIA",ARROW T6|EP12 (LEG)
+0-1http://cdn1.ntcdn.us/content/httpdelivery/arrow/06leg/12-ALTO.mp4?STANIPTV 
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/02/p14477551_p_v8_aa-200x300.jpg" group-title="ATUALIZAÇÕES DO DIA",THE SOUND - DUB - HD (2017)
+0-2http://s.vstreaming.net/movies/osom-dub-720p.mp4?STANIPTV 
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/02/unnamed-file-91-200x300.jpg" group-title="ATUALIZAÇÕES DO DIA",BATMAN: GOTHAM BY GASLIGHT - DUB - HD (2018)
+0-3http://s.vstreaming.net/movies/batmangaslight-dub-720p.mp4?STANIPTV 
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/02/images-27-204x300.jpg" group-title="ATUALIZAÇÕES DO DIA",BIG PAI, BIG FILHO - DUB - HD (2017)
+...
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/1542819.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="FILMES 2018",SCOOBY‑DOO & BATMAN: OS BRAVOS E DESTEMIDOS - DUB - HD (2018)
+0-4http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4?STANIPTV 
+
+#EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/1542819.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="FILMES 2018",SCOOBY‑DOO & BATMAN: OS BRAVOS E DESTEMIDOS - LEG - HD (2018)
+0-5http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANLEG-ALTO.mp4?STANIPTV 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9UfbHP3.jpg" group-title="FILMES 2017",A CASA CAIU: UM CASSINO NA VIZINHANÇA (2017)
+0-6http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACSCUCSNVIZ.mp4?STANIPTV 
+
+0-7... e outros episódios e filmes listados no Gist original.
